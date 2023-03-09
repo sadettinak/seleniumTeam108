@@ -1,0 +1,86 @@
+<component name="libraryTable">
+  <library name="selenium-devtools-v108-4.8.1-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/drivers/auto-service-annotations-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v85-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-exporter-logging-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-handler-proxy-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-firefox-driver-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v110-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-sdk-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-sdk-logs-1.22.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-remote-driver-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/guava-31.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/auto-service-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-transport-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-chrome-driver-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v109-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/byte-buddy-1.12.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/failsafe-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-chromium-driver-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-api-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-resolver-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-transport-classes-epoll-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-sdk-common-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/slf4j-api-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-sdk-metrics-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-support-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-codec-http-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/checker-qual-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/async-http-client-2.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-sdk-trace-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/auto-common-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-transport-native-unix-common-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-api-logs-1.22.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-transport-classes-kqueue-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-safari-driver-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-java-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jcommander-1.82.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-manager-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-handler-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-common-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/error_prone_annotations-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-buffer-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-context-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-codec-socks-4.1.87.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-semconv-1.22.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-ie-driver-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v108-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/opentelemetry-api-1.22.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/reactive-streams-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/async-http-client-netty-utils-2.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-http-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-json-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-edge-driver-4.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/jtoml-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/netty-codec-4.1.87.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v108-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v109-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-safari-driver-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-chrome-driver-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-json-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-manager-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v110-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-remote-driver-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-chromium-driver-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-ie-driver-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-api-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-devtools-v85-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-http-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-support-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-edge-driver-4.8.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/drivers/selenium-firefox-driver-4.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
