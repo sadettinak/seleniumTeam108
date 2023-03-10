@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package day04_JUnitFramework;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -42,3 +43,7 @@ public class C01_TestNotasyonu {
         driver.close();
     }
 }
+=======
+package day04_JUnitFramework;public class C01_TestNotasyonu {
+}
+>>>>>>> origin/main
